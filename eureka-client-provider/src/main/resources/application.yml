@@ -1,0 +1,14 @@
+server:
+  port: ${PORT:9761}
+spring:
+  application:
+    name: eureka-client-provider
+eureka:
+  instance:
+    hostname: localhost
+    ip-address: 127.0.0.1
+  client:
+    register-with-eureka: true #代表的当前的应用当成客户端，该客户端会将自己注册到eureka服务器
+    fetch-registry: true #代表的当前的应用当成客户端，该客户端会从eureka服务器里面获取注册信息
+    service-url:
+      defaultZone: http://peer1:8761/eureka/,http://peer2:8762/eureka/  #当前应用就是客户端，该客户端会通过该地址来完成注册服务、获取服务

@@ -1,0 +1,18 @@
+server:
+  port: 9762
+spring:
+  application:
+    name: eureka-client-consumer-ribbon
+eureka:
+  instance:
+    hostname: localhost
+    ip-address: 127.0.0.1
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://peer1:8761/eureka/
+
+eureka-client-provider:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule

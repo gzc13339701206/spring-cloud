@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client-bus-refresh/config-client-bus-refresh.iml" filepath="$PROJECT_DIR$/config-client-bus-refresh/config-client-bus-refresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-consumer-feign/eureka-client-consumer-feign.iml" filepath="$PROJECT_DIR$/eureka-client-consumer-feign/eureka-client-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-consumer-ribbon/eureka-client-consumer-ribbon.iml" filepath="$PROJECT_DIR$/eureka-client-consumer-ribbon/eureka-client-consumer-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-provider/eureka-client-provider.iml" filepath="$PROJECT_DIR$/eureka-client-provider/eureka-client-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-ribbon-hystrix/eureka-client-ribbon-hystrix.iml" filepath="$PROJECT_DIR$/eureka-client-ribbon-hystrix/eureka-client-ribbon-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-zuul/eureka-client-zuul.iml" filepath="$PROJECT_DIR$/eureka-client-zuul/eureka-client-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-zuul-custom-filter/eureka-client-zuul-custom-filter.iml" filepath="$PROJECT_DIR$/eureka-client-zuul-custom-filter/eureka-client-zuul-custom-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-eureka.iml" />
+    </modules>
+  </component>
+</project>

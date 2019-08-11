@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-client-bus-refresh" />
+        <module name="eureka-server" />
+        <module name="eureka-client-ribbon-hystrix" />
+        <module name="hystrix-dashboard" />
+        <module name="eureka-client-consumer-feign" />
+        <module name="eureka-client-zuul" />
+        <module name="eureka-client-provider" />
+        <module name="config-server" />
+        <module name="config-client" />
+        <module name="eureka-client-zuul-custom-filter" />
+        <module name="eureka-client-consumer-ribbon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="config-client" target="1.8" />
+      <module name="config-client-bus-refresh" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-client-consumer-feign" target="1.8" />
+      <module name="eureka-client-consumer-ribbon" target="1.8" />
+      <module name="eureka-client-provider" target="1.8" />
+      <module name="eureka-client-ribbon-hystrix" target="1.8" />
+      <module name="eureka-client-zuul" target="1.8" />
+      <module name="eureka-client-zuul-custom-filter" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-client" options="-parameters" />
+      <module name="config-client-bus-refresh" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="eureka-client-consumer-feign" options="-parameters" />
+      <module name="eureka-client-consumer-ribbon" options="-parameters" />
+      <module name="eureka-client-provider" options="-parameters" />
+      <module name="eureka-client-ribbon-hystrix" options="-parameters" />
+      <module name="eureka-client-zuul" options="-parameters" />
+      <module name="eureka-client-zuul-custom-filter" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="hystrix-dashboard" options="-parameters" />
+    </option>
+  </component>
+</project>

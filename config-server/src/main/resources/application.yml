@@ -1,0 +1,14 @@
+server:
+  port: 7000
+spring:
+  application:
+    name: config-server
+
+# configure remote git repository uri  for config server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/crazy_raobing/spring-cloud-config-repo.git
+          username:
+          password:

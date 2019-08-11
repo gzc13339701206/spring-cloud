@@ -1,0 +1,15 @@
+server:
+  port: 9000
+spring:
+  application:
+    name: eureka-client-zuul-custom-filter
+
+eureka:
+  instance:
+    hostname: localhost
+    ip-address: 127.0.0.1
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://peer1:8761/eureka/

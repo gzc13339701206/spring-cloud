@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29842b28-4416-43c6-8479-5c6d8f121bc1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="spring-cloud-eureka" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GiteeDefaultAccount">
+    <option name="defaultAccountId" value="d634d53b-8508-43fa-a181-b99e90755a76" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="f45ebd3e-e154-4de1-8e7b-ab71c8de6ac8" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\05_environment\maven-repository\raobing_repository" />
+        <option name="mavenHome" value="D:/05_environment/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\05_environment\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1PD1qHyFLFQ5pzQDVdegHKcswqq" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config-client-bus-refresh/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.11011011" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.client.controller" />
+      <recent name="com.itheima.client.entity" />
+      <recent name="com.itheima.client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JavaEE73期\04-复习\3-springcloud\spring-cloud-eureka\config-client-bus-refresh\src\main\resources" />
+      <recent name="F:\JavaEE73期\04-复习\3-springcloud\spring-cloud-eureka\config-client\src\main\resources" />
+      <recent name="F:\JavaEE73期\04-复习\3-springcloud\spring-cloud-eureka\eureka-client-ribbon-hystrix\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.config-client-bus-refresh-7003">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboard" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hystrix-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.HystrixDashboardApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="config-client-bus-refresh-7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-client-bus-refresh" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.client.ConfigClientBusRefreshApplication" />
+      <option name="VM_PARAMETERS" value="-DPORT=7001" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="config-client-bus-refresh-7003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-client-bus-refresh" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.client.ConfigClientBusRefreshApplication" />
+      <option name="VM_PARAMETERS" value="-DPORT=7003" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="config-client" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.client.ConfigClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="config-server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.server.ConfigServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-client-consumer-feign-9762" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="eureka-client-consumer">
+      <module name="eureka-client-consumer-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.client.EurekaClientConsumerFeignApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-client-consumer-ribbon-9762" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="eureka-client-consumer">
+      <module name="eureka-client-consumer-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.client.EurekaClientConsumerRibbonApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-client-provider-9761" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="eureka-client-provider">
+      <module name="eureka-client-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.client.EurekaClientProviderApplication" />
+      <option name="VM_PARAMETERS" value="-DPORT=9761" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-client-provider-9763" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="eureka-client-provider">
+      <module name="eureka-client-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.client.EurekaClientProviderApplication" />
+      <option name="VM_PARAMETERS" value="-DPORT=9763" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-client-ribbon-hystrix" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client-ribbon-hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.client.EurekaClientRibbonHystrixApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-client-zuul-custom-filter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client-zuul-custom-filter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.client.EurekaClientZuulCustomFilterApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-client-zuul" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.client.EurekaClientZuulApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-server-peer1-8761" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="eureka-server-profiles">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.server.EurekaServerApplication" />
+      <option name="ACTIVE_PROFILES" value="peer1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-server-peer2-8762" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="eureka-server-profiles">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.server.EurekaServerApplication" />
+      <option name="ACTIVE_PROFILES" value="peer2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.eureka-client-consumer-ribbon-9762" />
+      <item itemvalue="Spring Boot.eureka-client-consumer-feign-9762" />
+      <item itemvalue="Spring Boot.eureka-client-provider-9761" />
+      <item itemvalue="Spring Boot.eureka-client-provider-9763" />
+      <item itemvalue="Spring Boot.eureka-server-peer1-8761" />
+      <item itemvalue="Spring Boot.eureka-server-peer2-8762" />
+      <item itemvalue="Spring Boot.eureka-client-zuul" />
+      <item itemvalue="Spring Boot.eureka-client-zuul-custom-filter" />
+      <item itemvalue="Spring Boot.eureka-client-ribbon-hystrix" />
+      <item itemvalue="Spring Boot.HystrixDashboard" />
+      <item itemvalue="Spring Boot.config-server" />
+      <item itemvalue="Spring Boot.config-client" />
+      <item itemvalue="Spring Boot.config-client-bus-refresh-7001" />
+      <item itemvalue="Spring Boot.config-client-bus-refresh-7003" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.31513646" />
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+        <option name="groupByContributor" value="true" />
+      </serviceView>
+    </option>
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.26220018" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@19de90a0" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+          <option name="viewType" value="contributor" />
+          <option name="roots">
+            <list>
+              <ServiceState>
+                <option name="contributor" value="com.intellij.execution.dashboard.RunConfigurationsServiceViewContributor" />
+              </ServiceState>
+            </list>
+          </option>
+        </serviceView>
+      </list>
+    </option>
+    <option name="selectedView" value="0" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\itheima\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29842b28-4416-43c6-8479-5c6d8f121bc1" name="Default Changelist" comment="" />
+      <created>1565349527732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565349527732</updated>
+      <workItem from="1565349529395" duration="9330000" />
+      <workItem from="1565394053628" duration="535000" />
+      <workItem from="1565394618473" duration="833000" />
+      <workItem from="1565395528884" duration="1858000" />
+      <workItem from="1565397410466" duration="8568000" />
+      <workItem from="1565490906809" duration="31357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+</project>
